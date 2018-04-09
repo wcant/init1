@@ -1,0 +1,7 @@
+source: public
+destination: web
+
+url: https://clean4happy.com
+permalink: pretty
+
+encoding: utf-8
